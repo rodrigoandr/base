@@ -16,6 +16,7 @@ namespace Base
     public enum TipoTelefone
     {
         Fixo,
-        Celular
+        Celular,
+        Fax
     }
 }
