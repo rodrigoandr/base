@@ -13,6 +13,8 @@ namespace Base
         public string Sobrenome { get; set; }
         public List<Telefone> Telefones { get; set; }
 
+        public int Idade { get; set; }
+
         public Pessoa()
         {
             Telefones = new List<Telefone>();
