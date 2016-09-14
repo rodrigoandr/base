@@ -17,6 +17,7 @@ namespace Base
     {
         Fixo,
         Celular,
-        Fax
+        Fax,
+        Recado
     }
 }
